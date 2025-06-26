@@ -3,9 +3,9 @@
 A full‑featured dynamic data table web application built using **Next.js**, **Redux Toolkit**, **Material UI (MUI)**, and **MongoDB**.  
 Easily import, edit, sort, search, and persist tabular data with a modern interface.
 
-![App Screenshot](docs/screenshot-light.png)
+![App Screenshot](demo(app).png)
 ---
-
+![mongodb screenshot]( mongodb.png)
 ## ✨ Features
 
 | Feature | Description |
@@ -23,7 +23,7 @@ Easily import, edit, sort, search, and persist tabular data with a modern interf
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Frontend / Framework:** Next.js 14 (App Router), TypeScript  
 - **State Management:** Redux Toolkit + redux‑persist  
@@ -35,7 +35,7 @@ Easily import, edit, sort, search, and persist tabular data with a modern interf
 
 ---
 
-## ⚙️ Local Setup
+## ⚙ Local Setup
 
 ```bash
 # 1. Clone
