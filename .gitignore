@@ -1,0 +1,9 @@
+# ─── dependencies ───
+node_modules/
+
+# ─── Next.js build output ───
+.next/
+
+# ─── Environment files ───
+.env.local
+.env.*
